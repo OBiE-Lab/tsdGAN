@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+sklearn
+plotly
+tensorflow
+pickle
+time
+statsmodels
+seaborn
