@@ -17,7 +17,7 @@ This paper introduces tsdGAN, a novel deep learning approach specifically design
 For any further inquiries or discussions related to this work, please reach out to the primary correspondent: lucas.haberkamp.ctr@us.af.mil
 
 ## Acknowledgements
-The views expressed in this article reflect the results of research conducted by the authors and do not necessarily reflect the official policy or position of the Department of the Navy, Department of the Air Force, Department of Defense, nor the United States Government.    
+DISTRIBUTION STATEMENT A. Approved for public release. Distribution is unlimited. The views expressed in this article reflect the results of research conducted by the authors and do not necessarily reflect the official policy or position of the Department of the Navy, Department of the Air Force, Department of Defense, nor the United States Government.    
 Charles Weisenbach and Peter Le are employees of the U.S. Government. This work was prepared as part of their official duties. Title 17 U.S.C. 105 provides that copyright protection under this title is not available for any work of the U.S. Government. Title 17 U.S.C. 101 defines a U.S. Government work as work prepared by a military service member or employee of the U.S. Government as part of that person's official duties.  
 The authors are thankful for the technical assistance provided by Alannah Gernon, who played a crucial role in data collection, and Nicholas Robinson, for his valuable contributions in reviewing the manuscript.
 
